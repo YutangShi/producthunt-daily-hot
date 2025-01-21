@@ -15,7 +15,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 producthunt_client_id = os.getenv("PRODUCTHUNT_CLIENT_ID")
 producthunt_client_secret = os.getenv("PRODUCTHUNT_CLIENT_SECRET")
-
+product_hunt_token = os.getenv("PRODUCT_HUNT_TOKEN")
 
 class Product:
     def __init__(
@@ -125,33 +125,33 @@ class Product:
         )
 
 
-def get_producthunt_token():
+# def get_producthunt_token():
     """通過 client_id 和 client_secret 獲取 Product Hunt 的 access_token"""
     url = "https://api.producthunt.com/v2/oauth/token"
-    payload = {
-        "client_id": producthunt_client_id,
-        "client_secret": producthunt_client_secret,
-        "grant_type": "client_credentials",
-    }
+    # payload = {
+    #     "client_id": producthunt_client_id,
+    #     "client_secret": producthunt_client_secret,
+    #     "grant_type": "client_credentials",
+    # }
 
-    headers = {
-        "Content-Type": "application/json",
-    }
+    # headers = {
+    #     "Content-Type": "application/json",
+    # }
 
-    response = requests.post(url, json=payload, headers=headers)
+    # response = requests.post(url, json=payload, headers=headers)
 
-    if response.status_code != 200:
-        raise Exception(
-            f"Failed to obtain access token: {response.status_code}, {response.text}"
-        )
+    # if response.status_code != 200:
+    #     raise Exception(
+    #         f"Failed to obtain access token: {response.status_code}, {response.text}"
+    #     )
 
-    token = response.json().get("access_token")
-    return token
+    # token = response.json().get("access_token")
+    # return token
 
 
 def fetch_product_hunt_data():
     """從 Product Hunt 取得取前一天的Top 30數據"""
-    token = get_producthunt_token()
+    token = product_hunt_token
     yesterday = datetime.now(timezone.utc) - timedelta(days=1)
     date_str = yesterday.strftime("%Y-%m-%d")
     url = "https://api.producthunt.com/v2/api/graphql"
