@@ -9,7 +9,7 @@
 ![Outrank](https://ph-files.imgix.net/e4456c85-a1ab-45ea-ba7d-d0830fa4bd15.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺606
+**票數**: 🔺607
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -39,7 +39,7 @@
 ![Spellar for iOS](https://ph-files.imgix.net/ae4000e8-3fba-4aa0-864e-872813a6a75f.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺409
+**票數**: 🔺412
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -54,7 +54,7 @@
 ![Milestone Content Studio](https://ph-files.imgix.net/b1de781b-625c-43bd-88a5-7716a1fe51c8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺401
+**票數**: 🔺402
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -69,7 +69,7 @@
 ![The 2025 State of AI](https://ph-files.imgix.net/48be621e-27a4-47fc-b36e-e272bc4e10c0.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺237
+**票數**: 🔺238
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -114,7 +114,7 @@
 ![Duory](https://ph-files.imgix.net/e1e933fb-cf7c-49d1-8db8-a2bcfc58d93c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺170
+**票數**: 🔺171
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -285,28 +285,28 @@
 
 ---
 
-## [20. DSA Stats](https://www.producthunt.com/posts/dsa-stats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Share your DSA stats across different platforms in one place
-**介紹**：View and share your DSA stats from different platforms in one place. You can create profile card of different platform's stats and checkout the leaderboard that ranks users based on total problems solved. share a single link for all your dsa platforms!
-**產品網站**: [立即訪問](https://www.producthunt.com/r/WDNMZJRWYAEAOS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/dsa-stats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-
-![DSA Stats](https://ph-files.imgix.net/cb1f632a-404d-444a-9273-296beb2d17e5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
-
-**關鍵詞**：無關鍵詞
-**票數**: 🔺17
-**是否精選**：否
-**發佈時間**：2025年01月20日 PM04:01 (台灣時間)
-
----
-
-## [21. LeadHunter](https://www.producthunt.com/posts/leadhunter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [20. LeadHunter](https://www.producthunt.com/posts/leadhunter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 **標語**：Easiest way to find and manage leads on Reddit
 **介紹**：Leadhunter is the ultimate tool for finding and managing leads on Reddit with ease. AI technology with user-friendly features,it helps you connect with prime prospects, craft authentic responses, and refine your outreach strategy through insightful analytics.
 **產品網站**: [立即訪問](https://www.producthunt.com/r/LXMUT4LEI6RBOU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 **Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/leadhunter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
 ![LeadHunter](https://ph-files.imgix.net/5afbcc45-a2a1-417d-8d68-71cfe5f4168d.png?auto=format&fit=crop&frame=1&h=512&w=1024)
+
+**關鍵詞**：無關鍵詞
+**票數**: 🔺18
+**是否精選**：否
+**發佈時間**：2025年01月20日 PM04:01 (台灣時間)
+
+---
+
+## [21. DSA Stats](https://www.producthunt.com/posts/dsa-stats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Share your DSA stats across different platforms in one place
+**介紹**：View and share your DSA stats from different platforms in one place. You can create profile card of different platform's stats and checkout the leaderboard that ranks users based on total problems solved. share a single link for all your dsa platforms!
+**產品網站**: [立即訪問](https://www.producthunt.com/r/WDNMZJRWYAEAOS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/dsa-stats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+
+![DSA Stats](https://ph-files.imgix.net/cb1f632a-404d-444a-9273-296beb2d17e5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺17
