@@ -21,12 +21,10 @@ jobs:
     - name: Install dependencies
       run: |
         pip install requests
-        pip install markdown 
+        pip install markdown
 
     - name: Publish to WordPress
       env:
-        WORDPRESS_URL: ${{ secrets.WORDPRESS_URL }}
-        WORDPRESS_USERNAME: ${{ secrets.WORDPRESS_USERNAME }}
-        WORDPRESS_PASSWORD: ${{ secrets.WORDPRESS_PASSWORD }}
+        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
       run: |
-        python scripts/publish_to_wordpress.py
+        python scripts/publish_to_slack.py

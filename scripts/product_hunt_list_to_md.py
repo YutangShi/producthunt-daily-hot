@@ -88,7 +88,7 @@ class Product:
                 messages=[
                     {
                         "role": "system",
-                        "content": "你是世界上最專業的翻譯工具，擅長英文和中文互譯。你是一位精通英文和中文的專業翻譯，尤其擅長將IT公司黑話和專業詞彙翻譯成簡潔易懂的地道表達。你的任務是將以下內容翻譯成地道的中文，風格與科普雜誌或日常對話相似。",
+                        "content": "你是世界上最專業的翻譯工具，擅長英文和中文互譯。你是一位精通英文和中文的專業翻譯，尤其擅長將IT公司黑話和專業詞彙翻譯成簡潔易懂的地道表達。你的任務是將以下內容翻譯成流暢的繁體中文，風格與科普雜誌或日常對話相似。",
                     },
                     {"role": "user", "content": text},
                 ],
@@ -213,7 +213,7 @@ def generate_markdown(products, date_str):
     today = datetime.now(timezone.utc)
     date_today = today.strftime("%Y-%m-%d")
 
-    markdown_content = f"# PH今日熱榜 | {date_today}\n\n"
+    markdown_content = f"# 今日熱門榜單 | {date_today}\n\n"
     for rank, product in enumerate(products, 1):
         markdown_content += product.to_markdown(rank)
 
@@ -226,7 +226,7 @@ def generate_markdown(products, date_str):
     # 如果文件存在，直接覆蓋
     with open(file_name, "w", encoding="utf-8") as file:
         file.write(markdown_content)
-    print(f"文件 {file_name} 生成成功並已覆蓋。")
+    print(f"文件 {file_name} 產生成功並更新。")
 
 
 def main():
