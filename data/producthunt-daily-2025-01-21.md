@@ -9,7 +9,7 @@
 ![Outrank](https://ph-files.imgix.net/e4456c85-a1ab-45ea-ba7d-d0830fa4bd15.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺600
+**票數**: 🔺601
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -39,7 +39,7 @@
 ![Spellar for iOS](https://ph-files.imgix.net/ae4000e8-3fba-4aa0-864e-872813a6a75f.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺399
+**票數**: 🔺406
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -54,7 +54,7 @@
 ![Milestone Content Studio](https://ph-files.imgix.net/b1de781b-625c-43bd-88a5-7716a1fe51c8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺398
+**票數**: 🔺399
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -69,7 +69,7 @@
 ![The 2025 State of AI](https://ph-files.imgix.net/48be621e-27a4-47fc-b36e-e272bc4e10c0.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺234
+**票數**: 🔺235
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -174,7 +174,7 @@
 ![The Connecter](https://ph-files.imgix.net/696225c1-998d-42fb-bbde-4fed32abe5a5.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺61
+**票數**: 🔺62
 **是否精選**：否
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -300,13 +300,13 @@
 
 ---
 
-## [21. Rapid A/B Test](https://www.producthunt.com/posts/rapid-a-b-test?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Human Feedback in Seconds
-**介紹**：Multiple designs, even more ideas, but which one to choose? Rapid A/B Test is a Figma plugin that let's you collect human feedback on two design versions within minutes. Simply select two frames and watch preferences fly in from all over the world! No AI!
-**產品網站**: [立即訪問](https://www.producthunt.com/r/MLKHIKPQHHWWNR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/rapid-a-b-test?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [21. Drope AI](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Create smarter content with consistency in your brand voice
+**介紹**：We’re thrilled to introduce Drope AI, a game-changing tool for content creation that helps you write in your brand’s unique voice, while making repetitive tasks faster and easier.
+**產品網站**: [立即訪問](https://www.producthunt.com/r/HY72DAHFJKUBU4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
-![Rapid A/B Test](https://ph-files.imgix.net/51959b5d-99eb-466c-8bf9-d5db133b0eb0.png?auto=format&fit=crop&frame=1&h=512&w=1024)
+![Drope AI](https://ph-files.imgix.net/57b51698-5127-442b-b8c2-7dd8c530e84f.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺16
@@ -330,13 +330,13 @@
 
 ---
 
-## [23. Drope AI](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Create smarter content with consistency in your brand voice
-**介紹**：We’re thrilled to introduce Drope AI, a game-changing tool for content creation that helps you write in your brand’s unique voice, while making repetitive tasks faster and easier.
-**產品網站**: [立即訪問](https://www.producthunt.com/r/HY72DAHFJKUBU4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [23. Rapid A/B Test](https://www.producthunt.com/posts/rapid-a-b-test?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Human Feedback in Seconds
+**介紹**：Multiple designs, even more ideas, but which one to choose? Rapid A/B Test is a Figma plugin that let's you collect human feedback on two design versions within minutes. Simply select two frames and watch preferences fly in from all over the world! No AI!
+**產品網站**: [立即訪問](https://www.producthunt.com/r/MLKHIKPQHHWWNR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/rapid-a-b-test?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
-![Drope AI](https://ph-files.imgix.net/57b51698-5127-442b-b8c2-7dd8c530e84f.png?auto=format&fit=crop&frame=1&h=512&w=1024)
+![Rapid A/B Test](https://ph-files.imgix.net/51959b5d-99eb-466c-8bf9-d5db133b0eb0.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺16
