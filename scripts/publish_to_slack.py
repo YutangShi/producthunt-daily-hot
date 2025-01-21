@@ -37,7 +37,12 @@ def publish_to_slack():
     }
 
     # 发送POST请求到Slack webhook URL
-    response = requests.post(slack_webhook_url, json=slack_data)
+    headers = {
+        "Content-Type": "application/json",
+    }
+    response = requests.post(slack_webhook_url, json=slack_data, headers=headers)
+    if response.status_code == 200:
+        print("Notification Sent....")
 
     # 检查响应状态
     if response.status_code == 200:
