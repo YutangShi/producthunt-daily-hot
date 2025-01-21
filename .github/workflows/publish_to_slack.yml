@@ -1,4 +1,4 @@
-name: Publish to WordPress
+name: Publish to slack
 
 on:
   workflow_run:
@@ -6,7 +6,7 @@ on:
     types: [completed]
 
 jobs:
-  publish_to_wordpress:
+  publish_to_slack:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,7 +23,7 @@ jobs:
         pip install requests
         pip install markdown
 
-    - name: Publish to WordPress
+    - name: Publish to slack
       env:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
       run: |
