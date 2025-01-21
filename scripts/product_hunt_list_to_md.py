@@ -17,6 +17,7 @@ producthunt_client_id = os.getenv("PRODUCTHUNT_CLIENT_ID")
 producthunt_client_secret = os.getenv("PRODUCTHUNT_CLIENT_SECRET")
 product_hunt_token = os.getenv("PRODUCT_HUNT_TOKEN")
 
+
 class Product:
     def __init__(
         self,
@@ -124,8 +125,7 @@ class Product:
             f"---\n\n"
         )
 
-
-# def get_producthunt_token():
+    # def get_producthunt_token():
     """通過 client_id 和 client_secret 獲取 Product Hunt 的 access_token"""
     url = "https://api.producthunt.com/v2/oauth/token"
     # payload = {
@@ -152,6 +152,7 @@ class Product:
 def fetch_product_hunt_data():
     """從 Product Hunt 取得取前一天的Top 30數據"""
     token = product_hunt_token
+    print(product_hunt_token)
     yesterday = datetime.now(timezone.utc) - timedelta(days=1)
     date_str = yesterday.strftime("%Y-%m-%d")
     url = "https://api.producthunt.com/v2/api/graphql"
