@@ -9,7 +9,7 @@
 ![Outrank](https://ph-files.imgix.net/e4456c85-a1ab-45ea-ba7d-d0830fa4bd15.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺601
+**票數**: 🔺605
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -24,7 +24,7 @@
 ![/extract by Firecrawl](https://ph-files.imgix.net/9eb9bc99-5ee8-45dc-b0b2-c78ee8949bfd.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺432
+**票數**: 🔺435
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -39,7 +39,7 @@
 ![Spellar for iOS](https://ph-files.imgix.net/ae4000e8-3fba-4aa0-864e-872813a6a75f.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺406
+**票數**: 🔺408
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -54,7 +54,7 @@
 ![Milestone Content Studio](https://ph-files.imgix.net/b1de781b-625c-43bd-88a5-7716a1fe51c8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺399
+**票數**: 🔺401
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -69,7 +69,7 @@
 ![The 2025 State of AI](https://ph-files.imgix.net/48be621e-27a4-47fc-b36e-e272bc4e10c0.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺235
+**票數**: 🔺237
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -285,7 +285,22 @@
 
 ---
 
-## [20. LeadHunter](https://www.producthunt.com/posts/leadhunter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [20. DSA Stats](https://www.producthunt.com/posts/dsa-stats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Share your DSA stats across different platforms in one place
+**介紹**：View and share your DSA stats from different platforms in one place. You can create profile card of different platform's stats and checkout the leaderboard that ranks users based on total problems solved. share a single link for all your dsa platforms!
+**產品網站**: [立即訪問](https://www.producthunt.com/r/WDNMZJRWYAEAOS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/dsa-stats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+
+![DSA Stats](https://ph-files.imgix.net/cb1f632a-404d-444a-9273-296beb2d17e5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
+
+**關鍵詞**：無關鍵詞
+**票數**: 🔺17
+**是否精選**：否
+**發佈時間**：2025年01月20日 PM04:01 (台灣時間)
+
+---
+
+## [21. LeadHunter](https://www.producthunt.com/posts/leadhunter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 **標語**：Easiest way to find and manage leads on Reddit
 **介紹**：Leadhunter is the ultimate tool for finding and managing leads on Reddit with ease. AI technology with user-friendly features,it helps you connect with prime prospects, craft authentic responses, and refine your outreach strategy through insightful analytics.
 **產品網站**: [立即訪問](https://www.producthunt.com/r/LXMUT4LEI6RBOU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
@@ -300,28 +315,13 @@
 
 ---
 
-## [21. Drope AI](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [22. Drope AI](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 **標語**：Create smarter content with consistency in your brand voice
 **介紹**：We’re thrilled to introduce Drope AI, a game-changing tool for content creation that helps you write in your brand’s unique voice, while making repetitive tasks faster and easier.
 **產品網站**: [立即訪問](https://www.producthunt.com/r/HY72DAHFJKUBU4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 **Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
 ![Drope AI](https://ph-files.imgix.net/57b51698-5127-442b-b8c2-7dd8c530e84f.png?auto=format&fit=crop&frame=1&h=512&w=1024)
-
-**關鍵詞**：無關鍵詞
-**票數**: 🔺16
-**是否精選**：否
-**發佈時間**：2025年01月20日 PM04:01 (台灣時間)
-
----
-
-## [22. DSA Stats](https://www.producthunt.com/posts/dsa-stats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Share your DSA stats across different platforms in one place
-**介紹**：View and share your DSA stats from different platforms in one place. You can create profile card of different platform's stats and checkout the leaderboard that ranks users based on total problems solved. share a single link for all your dsa platforms!
-**產品網站**: [立即訪問](https://www.producthunt.com/r/WDNMZJRWYAEAOS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/dsa-stats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-
-![DSA Stats](https://ph-files.imgix.net/cb1f632a-404d-444a-9273-296beb2d17e5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺16
@@ -405,7 +405,22 @@
 
 ---
 
-## [28. SimpMusic](https://www.producthunt.com/posts/simpmusic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [28. VersaPost](https://www.producthunt.com/posts/versapost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Social-Media management tool
+**介紹**：VersaPost is a social media management tool that helps you schedule and publish content to your social media accounts.
+**產品網站**: [立即訪問](https://www.producthunt.com/r/XLIWBWF4BIPMHM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/versapost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+
+![VersaPost](https://ph-files.imgix.net/5c708246-e618-4ef6-a0f9-2d210ac90aa7.png?auto=format&fit=crop&frame=1&h=512&w=1024)
+
+**關鍵詞**：無關鍵詞
+**票數**: 🔺10
+**是否精選**：否
+**發佈時間**：2025年01月20日 PM04:01 (台灣時間)
+
+---
+
+## [29. SimpMusic](https://www.producthunt.com/posts/simpmusic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 **標語**：A FOSS YouTube Music client for Android with many features
 **介紹**：A FOSS YouTube Music client for Android with many features from Spotify, Musixmatch, SponsorBlock, ReturnYouTubeDislike. This is an alternative for ReVanced, NewPipe, etc. For more information, visit: https://simpmusic.org
 **產品網站**: [立即訪問](https://www.producthunt.com/r/BXKLW6N6RVYQ72?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
@@ -420,28 +435,13 @@
 
 ---
 
-## [29. Worklog Buddy](https://www.producthunt.com/posts/worklog-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [30. Worklog Buddy](https://www.producthunt.com/posts/worklog-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 **標語**：Think, plan, and track all in one place
 **介紹**：Efficiently manage your tasks and boost productivity with Worklog Buddy. Track time, create to-dos, and set milestones all in one place.
 **產品網站**: [立即訪問](https://www.producthunt.com/r/LU6A27FDJXEHMB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 **Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/worklog-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
 ![Worklog Buddy](https://ph-files.imgix.net/ed6b1c55-d0af-4f74-b99c-50b10e785022.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
-
-**關鍵詞**：無關鍵詞
-**票數**: 🔺10
-**是否精選**：否
-**發佈時間**：2025年01月20日 PM04:01 (台灣時間)
-
----
-
-## [30. Free Download Tiktok Video](https://www.producthunt.com/posts/free-download-tiktok-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Backup all your TikTok videos in minutes
-**介紹**：With the TikTok ban in the US, many creators risk losing years of hard work. The TikTok Video Backup Tool allows you to secure all your videos in just minutes.
-**產品網站**: [立即訪問](https://www.producthunt.com/r/H7ZGTVIRXF4FLQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/free-download-tiktok-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-
-![Free Download Tiktok Video](https://ph-files.imgix.net/cae69343-b671-4414-8df9-38bb58257e92.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺10
