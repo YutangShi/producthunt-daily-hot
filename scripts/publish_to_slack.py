@@ -1,7 +1,22 @@
 import os
+import re
 import markdown
 import requests
 from datetime import datetime, timezone
+
+REGEX_REPLACE = (
+    (re.compile("^- ", flags=re.M), "• "),
+    (re.compile("^  - ", flags=re.M), "  ◦ "),
+    (re.compile("^    - ", flags=re.M), "    ⬩ "),
+    (re.compile("^      - ", flags=re.M), "    ◽ "),
+    (re.compile("^#+ (.+)$", flags=re.M), r"*\1*"),
+    (re.compile("\*\*"), "*"),
+)
+
+def convert_markdown_to_slack_format(markdown_text):
+    for regex, replacement in REGEX_REPLACE:
+        markdown_text = regex.sub(replacement, markdown_text)
+    return markdown_text
 
 def publish_to_slack():
     slack_webhook_url = os.getenv('SLACK_WEBHOOK_URL')
@@ -30,11 +45,10 @@ def publish_to_slack():
 
     # 获取文件中的第一行作为标题
     title = content.splitlines()[0].strip('#').strip()
+    content = convert_markdown_to_slack_format(content_without_title)
 
     # 构建Slack消息数据
-    slack_data = {
-        'text': f"*{title}*\n{html_content}"
-    }
+    slack_data = {"text": f"*{title}*\n{content}"}
 
     # 发送POST请求到Slack webhook URL
     headers = {
