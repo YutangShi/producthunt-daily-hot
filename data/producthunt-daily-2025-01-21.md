@@ -1,4 +1,4 @@
-# PH今日熱榜 | 2025-01-21
+# 今日熱門榜單 | 2025-01-21
 
 ## [1. Outrank](https://www.producthunt.com/posts/outrank?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 **標語**：Keyword research and blogging on auto-pilot for growth
@@ -9,7 +9,7 @@
 ![Outrank](https://ph-files.imgix.net/e4456c85-a1ab-45ea-ba7d-d0830fa4bd15.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺598
+**票數**: 🔺600
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -24,7 +24,7 @@
 ![/extract by Firecrawl](https://ph-files.imgix.net/9eb9bc99-5ee8-45dc-b0b2-c78ee8949bfd.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺431
+**票數**: 🔺432
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -39,7 +39,7 @@
 ![Spellar for iOS](https://ph-files.imgix.net/ae4000e8-3fba-4aa0-864e-872813a6a75f.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺396
+**票數**: 🔺399
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -54,7 +54,7 @@
 ![Milestone Content Studio](https://ph-files.imgix.net/b1de781b-625c-43bd-88a5-7716a1fe51c8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺394
+**票數**: 🔺398
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -69,7 +69,7 @@
 ![The 2025 State of AI](https://ph-files.imgix.net/48be621e-27a4-47fc-b36e-e272bc4e10c0.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺233
+**票數**: 🔺234
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -99,7 +99,7 @@
 ![ai_licia](https://ph-files.imgix.net/72fb046a-3055-4ae3-aff5-e05a68cdce91.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺183
+**票數**: 🔺184
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -159,7 +159,7 @@
 ![Vela](https://ph-files.imgix.net/08e76812-9d3c-4bc1-9695-20d6310d79f5.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺136
+**票數**: 🔺137
 **是否精選**：是
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -174,7 +174,7 @@
 ![The Connecter](https://ph-files.imgix.net/696225c1-998d-42fb-bbde-4fed32abe5a5.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
-**票數**: 🔺60
+**票數**: 🔺61
 **是否精選**：否
 **發佈時間**：2025年01月20日 PM04:01 (台灣時間)
 
@@ -300,13 +300,13 @@
 
 ---
 
-## [21. Drope AI](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Create smarter content with consistency in your brand voice
-**介紹**：We’re thrilled to introduce Drope AI, a game-changing tool for content creation that helps you write in your brand’s unique voice, while making repetitive tasks faster and easier.
-**產品網站**: [立即訪問](https://www.producthunt.com/r/HY72DAHFJKUBU4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [21. Rapid A/B Test](https://www.producthunt.com/posts/rapid-a-b-test?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Human Feedback in Seconds
+**介紹**：Multiple designs, even more ideas, but which one to choose? Rapid A/B Test is a Figma plugin that let's you collect human feedback on two design versions within minutes. Simply select two frames and watch preferences fly in from all over the world! No AI!
+**產品網站**: [立即訪問](https://www.producthunt.com/r/MLKHIKPQHHWWNR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/rapid-a-b-test?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
-![Drope AI](https://ph-files.imgix.net/57b51698-5127-442b-b8c2-7dd8c530e84f.png?auto=format&fit=crop&frame=1&h=512&w=1024)
+![Rapid A/B Test](https://ph-files.imgix.net/51959b5d-99eb-466c-8bf9-d5db133b0eb0.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺16
@@ -330,13 +330,13 @@
 
 ---
 
-## [23. Rapid A/B Test](https://www.producthunt.com/posts/rapid-a-b-test?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Human Feedback in Seconds
-**介紹**：Multiple designs, even more ideas, but which one to choose? Rapid A/B Test is a Figma plugin that let's you collect human feedback on two design versions within minutes. Simply select two frames and watch preferences fly in from all over the world! No AI!
-**產品網站**: [立即訪問](https://www.producthunt.com/r/MLKHIKPQHHWWNR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/rapid-a-b-test?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [23. Drope AI](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Create smarter content with consistency in your brand voice
+**介紹**：We’re thrilled to introduce Drope AI, a game-changing tool for content creation that helps you write in your brand’s unique voice, while making repetitive tasks faster and easier.
+**產品網站**: [立即訪問](https://www.producthunt.com/r/HY72DAHFJKUBU4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/drope-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
-![Rapid A/B Test](https://ph-files.imgix.net/51959b5d-99eb-466c-8bf9-d5db133b0eb0.png?auto=format&fit=crop&frame=1&h=512&w=1024)
+![Drope AI](https://ph-files.imgix.net/57b51698-5127-442b-b8c2-7dd8c530e84f.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺16
@@ -390,13 +390,13 @@
 
 ---
 
-## [27. Free Download Tiktok Video](https://www.producthunt.com/posts/free-download-tiktok-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Backup all your TikTok videos in minutes
-**介紹**：With the TikTok ban in the US, many creators risk losing years of hard work. The TikTok Video Backup Tool allows you to secure all your videos in just minutes.
-**產品網站**: [立即訪問](https://www.producthunt.com/r/H7ZGTVIRXF4FLQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/free-download-tiktok-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [27. iggridmaker](https://www.producthunt.com/posts/iggridmaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Online image splitter for instagram grids
+**介紹**：Cut your Instagram grid, carousel or puzzle into single posts with this online image splitter tool.
+**產品網站**: [立即訪問](https://www.producthunt.com/r/GLY4N3FW3376AG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/iggridmaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
-![Free Download Tiktok Video](https://ph-files.imgix.net/cae69343-b671-4414-8df9-38bb58257e92.png?auto=format&fit=crop&frame=1&h=512&w=1024)
+![iggridmaker](https://ph-files.imgix.net/c87a4169-7a4c-47ad-bef4-89bf59321bb3.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺10
@@ -420,13 +420,13 @@
 
 ---
 
-## [29. VersaPost](https://www.producthunt.com/posts/versapost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Social-Media management tool
-**介紹**：VersaPost is a social media management tool that helps you schedule and publish content to your social media accounts.
-**產品網站**: [立即訪問](https://www.producthunt.com/r/XLIWBWF4BIPMHM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/versapost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [29. Worklog Buddy](https://www.producthunt.com/posts/worklog-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Think, plan, and track all in one place
+**介紹**：Efficiently manage your tasks and boost productivity with Worklog Buddy. Track time, create to-dos, and set milestones all in one place.
+**產品網站**: [立即訪問](https://www.producthunt.com/r/LU6A27FDJXEHMB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/worklog-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
-![VersaPost](https://ph-files.imgix.net/5c708246-e618-4ef6-a0f9-2d210ac90aa7.png?auto=format&fit=crop&frame=1&h=512&w=1024)
+![Worklog Buddy](https://ph-files.imgix.net/ed6b1c55-d0af-4f74-b99c-50b10e785022.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺10
@@ -435,13 +435,13 @@
 
 ---
 
-## [30. iggridmaker](https://www.producthunt.com/posts/iggridmaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**標語**：Online image splitter for instagram grids
-**介紹**：Cut your Instagram grid, carousel or puzzle into single posts with this online image splitter tool.
-**產品網站**: [立即訪問](https://www.producthunt.com/r/GLY4N3FW3376AG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/iggridmaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+## [30. Free Download Tiktok Video](https://www.producthunt.com/posts/free-download-tiktok-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**標語**：Backup all your TikTok videos in minutes
+**介紹**：With the TikTok ban in the US, many creators risk losing years of hard work. The TikTok Video Backup Tool allows you to secure all your videos in just minutes.
+**產品網站**: [立即訪問](https://www.producthunt.com/r/H7ZGTVIRXF4FLQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/posts/free-download-tiktok-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+n8n-workflow+%28ID%3A+162745%29)
 
-![iggridmaker](https://ph-files.imgix.net/c87a4169-7a4c-47ad-bef4-89bf59321bb3.png?auto=format&fit=crop&frame=1&h=512&w=1024)
+![Free Download Tiktok Video](https://ph-files.imgix.net/cae69343-b671-4414-8df9-38bb58257e92.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 **關鍵詞**：無關鍵詞
 **票數**: 🔺10
